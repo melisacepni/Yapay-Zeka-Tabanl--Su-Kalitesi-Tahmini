@@ -1,0 +1,1 @@
+# Yapay-Zeka-Tabanl--Su-Kalitesi-Tahmini
